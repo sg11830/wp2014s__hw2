@@ -1,0 +1,172 @@
+﻿body{
+   color:black;
+  background: url(http://fc02.deviantart.net/fs71/f/2010/048/a/9/texture_D_by_Knald.jpg)
+  }
+
+.container_12{
+  background: url(http://fc07.deviantart.net/fs26/f/2008/168/3/5/texture_30_by_aleeka_stock.jpg);  
+}
+
+
+/*a {text-decoration:none;}
+a:link{color:black;}
+a:hover{color:#40407f;}
+a:active{color:#b31a66;}
+a:visited{color:#262661;}*/
+
+.container_12 #header{ 
+ background:url(bg.jpg) repeat scroll 0 0;
+  /*width:320px;*/
+  margin:0 auto;
+  padding-top:20px;
+  ;text-align:center;
+}
+
+.container_12 #header ul{
+list-style-type:none;
+}
+
+.paper {
+    height:230px;
+    position:relative;
+    background-color:rgba(255,248,220,0.9);
+    border:1px solid #e3e3e3;
+    transform: rotate(-4deg);
+    -ms-transform: rotate(-4deg);
+    -moz-transform: rotate(-4deg);
+    -o-transform: rotate(-4deg);
+    -webkit-transform: rotate(-4deg);
+    margin-bottom:30px;
+}
+.red-line {
+    height:230px;
+    width:1px;
+    background-color:#ef8b8b;
+    float:left;
+    margin-left:4px;
+}
+.first {
+    margin-left:40px;
+}
+ul#lines {
+    margin-top:40px;
+    height:28px;
+    line-height:28px;
+    color:#4d84c8;
+    font-family: 'Fugaz One', cursive;
+    line-height:50px;
+    font-size:2.5em;
+}
+
+ul#lines li {
+    /*height:28px;
+    line-height:28px;
+    color:#4d84c8;
+    font-family: 'Fugaz One', cursive;
+    line-height:50px;
+    font-size:2.5em;*/
+    /*width:225px;*/
+    border-top:1px solid #B5B5B5;
+    /*padding-left:75px;*/
+}
+
+.tape{
+    position:absolute;
+    top:-15px; right:330px;
+    width: 130px;
+    height: 35px;
+    background-color:#fff;
+    opacity:0.6;
+    border-left: 1px dashed rgba(0, 0, 0, 0.1);
+    border-right: 1px dashed rgba(0, 0, 0, 0.1);
+    -webkit-box-shadow: 0px 0px 1px 0px #cccccc;
+    -moz-box-shadow: 0px 0px 1px 0px #cccccc;
+    box-shadow: 0px 0px 1px 0px #cccccc;
+    -webkit-transform: rotate(-2deg) skew(0,0) translate(0%,-5px);
+    -moz-transform: rotate(-2deg) skew(0,0) translate(0%,-5px);
+    -o-transform: rotate(-2deg) skew(0,0) translate(0%,-5px);
+    transform: rotate(-2deg) skew(0,0) translate(0%,-5px);
+}
+
+/*.left-shadow{
+    width: 140px;
+    height: 140px;
+    bottom:-5px; left:-12px;
+    position:absolute;
+    z-index:-6;
+    display: inline-block;
+    -webkit-box-shadow: -10px -10px 10px rgba(0, 0, 0, 0.4);
+    -moz-box-shadow: -10px -10px 10px rgba(0, 0, 0, 0.4);
+    box-shadow: -10px -10px 10px rgba(0, 0, 0, 0.4);
+    -moz-transform: scale(1) rotate(270deg) translate(50px, 30px) skew(3deg, 0deg);
+    -webkit-transform: scale(1) rotate(270deg) translate(20px, 25px) skew(3deg, 0deg);
+    -o-transform: scale(1) rotate(274deg) translate(20px, 25px) skew(3deg, 0deg);
+    -ms-transform: scale(1) rotate(274deg) translate(20px, 25px) skew(3deg, 0deg);
+    transform: scale(1) rotate(274deg) translate(20px, 25px) skew(3deg, 0deg);
+}
+
+.right-shadow{
+    width: 140px;
+    height: 140px;
+    bottom:-13px; right:-4px;
+    position:absolute;
+    z-index:-6;
+    display: inline-block;
+    -webkit-box-shadow: -10px -10px 10px rgba(0, 0, 0, 0.4);
+    -moz-box-shadow: -10px -10px 10px rgba(0, 0, 0, 0.4);
+    box-shadow: -10px -10px 10px rgba(0, 0, 0, 0.4);
+    -moz-transform: scale(1) rotate(184deg) translate(20px, 25px) skew(9deg, 0deg);
+    -webkit-transform: scale(1) rotate(184deg) translate(20px, 25px) skew(9deg, 0deg);
+    -o-transform: scale(1) rotate(184deg) translate(20px, 25px) skew(9deg, 0deg);
+    -ms-transform: scale(1) rotate(184deg) translate(20px, 25px) skew(9deg, 0deg);
+    transform: scale(1) rotate(184deg) translate(20px, 25px) skew(9deg, 0deg);
+}*/
+
+.c{
+  font-size:2.5em;
+  font-family: 'Fugaz One', cursive;
+  ;text-align:center;
+}
+
+.S{
+  font-size:3.5em;
+  ;text-align:center;
+  font-family: 'Limelight', cursive;
+}
+
+.container_12 #top{
+  background-color:rgba(250,128,114,0.8);
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+
+.container_12 #top p{
+  font-size:1.5em;
+  text-indent:15px;
+  position: relative;
+  padding-top:1em;
+  padding-right:1em;
+  padding-bottom:1em; 
+  padding-left:2.5em; 
+}
+
+.container_12 #table{
+  background-color:rgba(250,128,114,0.8);
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+
+.container_12 #table p{
+  font-size:1.2em;
+  position: relative;
+  padding-top:1em;
+  padding-right:1em;
+  padding-bottom:1em; 
+  padding-left:2.5em; 
+  line-height:40px;
+}
+
+footer div{
+  ;text-align:center;
+}
+
+
+
